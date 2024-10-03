@@ -23,7 +23,7 @@ The Simple Encryption and Decryption Algorithm is a bit-oriented scheme designed
 5. The final ciphertext is displayed.
 
 ### Encryption Flow Chart
-![Encryption Flow Chart](EncryptionFlowChart.png)
+![Encryption Flow Chart](Encryption Flow Chart.png)
 
 
 ### Decryption Process
@@ -35,7 +35,7 @@ The Simple Encryption and Decryption Algorithm is a bit-oriented scheme designed
 5. The original plaintext is displayed.
 
 ### Decryption Flow Chart
-![Decryption Flow Chart](DecryptionFlowChart.png)
+![Decryption Flow Chart](Decryption Flow Chart.png)
 
 ## Conclusion
 
